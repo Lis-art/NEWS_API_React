@@ -1,7 +1,7 @@
-const Keywordpage = () => {
+/* const Keywordpage = () => {
     return ( 
-        <h1>5</h1>
+        <h1></h1>
      );
 }
  
-export default Keywordpage;
+export default Keywordpage; */
